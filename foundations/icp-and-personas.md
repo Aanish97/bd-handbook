@@ -8,8 +8,8 @@ who we target for Aanish's services.
 The kind of client that's a strong fit. Derived from the services and
 positioning — **confirm and tighten.**
 
-> **Fill in:** Lock down the specifics (vertical focus, budget range, geography,
-> remote vs. on-site). Below is the strong-fit profile based on the offering.
+> **Fill in:** Lock down budget range. Vertical focus and geography are addressed
+> below; the rest is the strong-fit profile based on the offering.
 
 | Attribute | Strong-fit client |
 | --------- | ----------------- |
@@ -20,6 +20,28 @@ positioning — **confirm and tighten.**
 | Budget | Can fund a serious build or a fractional engagement — not bargain-hunting |
 | Geography | Remote; strong fit for **US and EU** clients (real-time overlap in both), available 24/7 |
 | Trigger events | Just raised funding; prototype stalling; a technical co-founder left; AI build hit a wall; a launch deadline looming |
+
+## Verticals & domain experience
+
+We are **domain-agnostic senior engineering** by default. That said, we have
+real, demonstrated experience in several verticals — lead with whichever matches
+the prospect:
+
+| Vertical | Experience to point to |
+| -------- | ---------------------- |
+| **Insurance** | Data-cleaning & automation — e.g. Statement of Values (SOV) cleaning automation |
+| **Fintech** | Financial / investing platform work |
+| **Healthcare** | Healthcare applications / platforms |
+| **Data engineering** | Complex, large-scale data-pipeline projects |
+
+**On tightening the focus:** we don't yet have the project density to claim deep
+specialization in one vertical, and that's fine for now — the pitch is senior,
+full-stack, AI-accelerated delivery that transfers across domains, backed by
+concrete examples in each of the above. As the project count grows, revisit this
+and narrow to the 1–2 verticals that convert best.
+
+> **Private:** Specific client/company names for each vertical live in the
+> private proof doc, not in this public repo. Name them publicly only once cleared.
 
 ### Disqualifiers — walk away early
 

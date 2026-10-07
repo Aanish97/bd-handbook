@@ -69,4 +69,8 @@ senior-engineer framing is the stronger pitch. Use **Arcompsol** (software
 services provider) when a client needs a company name on contracts/invoices or
 prefers dealing with an entity.
 
-> **Fill in:** Any niche vertical you want to own in the positioning.
+**Vertical stance:** Positioned as domain-agnostic for now — senior engineering
+that transfers across industries — with demonstrated work in insurance (SOV
+cleaning automation), fintech, healthcare, and complex data pipelines to cite as
+proof. Narrow to a named niche later, once there's enough project density to own
+one. See [ICP → Verticals](icp-and-personas.md#verticals--domain-experience).

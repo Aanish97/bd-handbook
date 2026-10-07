@@ -85,6 +85,12 @@ The short list:
 
 ## Proof
 
-> **Fill in:** Public-safe proof — the kinds of products you've shipped to
-> revenue, results, and any references/logos you're cleared to name. This repo is
-> **public**: keep client specifics in a private deck and link to it internally.
+Demonstrated delivery across several domains — **insurance** (Statement of Values
+cleaning automation), **fintech** (investing/financial platforms), **healthcare**
+(applications/platforms), and **complex data pipelines**. See
+[ICP → Verticals](icp-and-personas.md#verticals--domain-experience).
+
+> **Fill in:** Results/outcomes for each (even anonymized — "insurance client:
+> automated SOV cleaning, cut processing time by X"). This repo is **public**:
+> specific client/company names and logos go in a private deck and link here only
+> once cleared to name them publicly.
