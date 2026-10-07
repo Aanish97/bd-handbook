@@ -32,6 +32,10 @@ managing a team.
 revenue-generating products, not just written features.
 *Proof:* _{{fill in}}_
 
+**Always-on availability**
+*So that:* you get fast turnarounds and real-time overlap whether you're in the
+US or EU — reachable for work and calls 24/7, not waiting on a timezone gap.
+
 ## Messaging pillars
 
 1. **Judgment beats raw output.** AI gives everyone speed; architecture

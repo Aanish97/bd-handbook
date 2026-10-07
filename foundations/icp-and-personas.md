@@ -18,7 +18,7 @@ positioning — **confirm and tighten.**
 | Team | No senior engineer in-house, or an overstretched founding team |
 | Tech need | Web product (Django/DRF + React/Next.js), plus infra/DevOps |
 | Budget | Can fund a serious build or a fractional engagement — not bargain-hunting |
-| Geography | _{{fill in: remote-global? specific regions/timezones?}}_ |
+| Geography | Remote; strong fit for **US and EU** clients (real-time overlap in both), available 24/7 |
 | Trigger events | Just raised funding; prototype stalling; a technical co-founder left; AI build hit a wall; a launch deadline looming |
 
 ### Disqualifiers — walk away early

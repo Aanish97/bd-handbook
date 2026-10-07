@@ -45,8 +45,12 @@ Reframe to value and the cost of a rebuild — see
   **fractional roles** welcome. Actual rate numbers live in a private doc, not
   here.
 * **What's the typical engagement size / minimum?** — _TBD (private doc)_
-* **What's the availability / start lead time?** — _TBD_
-* **Remote only, or on-site / specific timezones?** — _TBD_
+* **What's the availability / start lead time?** Highly available — reachable for
+  work and calls **24/7**. Use this as a selling point: fast response and
+  overlap with the client's hours.
+* **Remote only, or on-site / specific timezones?** **Remote**, and comfortable
+  working across **US and EU business hours** — so clients in either region get
+  real-time overlap.
 * **What's the intake once a prospect is interested?** (who runs the technical
   call — the rep, or Aanish directly?) — _TBD_
 * **Referral / commission structure for the BD rep?** — _TBD_
