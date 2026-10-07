@@ -29,10 +29,12 @@ the prospect:
 
 | Vertical | Experience to point to |
 | -------- | ---------------------- |
-| **Insurance** | Data-cleaning & automation — e.g. Statement of Values (SOV) cleaning automation |
-| **Fintech** | Financial / investing platform work |
-| **Healthcare** | Healthcare applications / platforms |
-| **Data engineering** | Complex, large-scale data-pipeline projects |
+| **Fintech** | **Surmount AI** — our most extensive engagement (delivered as part of a team) |
+| **Healthcare** | **Ophycare**, **Aubilities** |
+| **Data engineering** | **GrowthCode** (growthcode.io) — complex, large-scale data pipelines |
+| **Insurance** | Statement of Values (SOV) cleaning automation |
+
+These are cleared to name in proposals and outreach.
 
 **On tightening the focus:** we don't yet have the project density to claim deep
 specialization in one vertical, and that's fine for now — the pitch is senior,
@@ -40,8 +42,6 @@ full-stack, AI-accelerated delivery that transfers across domains, backed by
 concrete examples in each of the above. As the project count grows, revisit this
 and narrow to the 1–2 verticals that convert best.
 
-> **Private:** Specific client/company names for each vertical live in the
-> private proof doc, not in this public repo. Name them publicly only once cleared.
 
 ### Disqualifiers — walk away early
 

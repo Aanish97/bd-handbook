@@ -85,12 +85,20 @@ The short list:
 
 ## Proof
 
-Demonstrated delivery across several domains — **insurance** (Statement of Values
-cleaning automation), **fintech** (investing/financial platforms), **healthcare**
-(applications/platforms), and **complex data pipelines**. See
-[ICP → Verticals](icp-and-personas.md#verticals--domain-experience).
+Named clients we're cleared to reference in proposals and outreach:
 
-> **Fill in:** Results/outcomes for each (even anonymized — "insurance client:
-> automated SOV cleaning, cut processing time by X"). This repo is **public**:
-> specific client/company names and logos go in a private deck and link here only
-> once cleared to name them publicly.
+| Client | Vertical | What we did |
+| ------ | -------- | ----------- |
+| **Surmount AI** | Fintech | Our most extensive engagement (delivered as part of a team) |
+| **Ophycare** | Healthcare | _{{fill in: one line on the work}}_ |
+| **Aubilities** | Healthcare | _{{fill in: one line on the work}}_ |
+| **GrowthCode** (growthcode.io) | Data engineering | Complex, large-scale data pipelines |
+| _{{insurance client}}_ | Insurance | Statement of Values (SOV) cleaning automation |
+
+> **Note:** Lead with **Surmount AI** as the flagship, but represent it
+> accurately — it was **team** work, not a solo build. For the others, add a
+> one-line outcome (even approximate — "cut SOV processing time by X",
+> "shipped the patient-facing platform") to make each one land.
+
+> **Fill in:** Results/metrics per client, and the insurance client's name if it
+> can be named too.
