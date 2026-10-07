@@ -42,9 +42,10 @@ Reframe to value and the cost of a rebuild — see
   [Engagement models](../foundations/what-we-sell.md#engagement-models). In short:
   **hourly** by default; **project-based** when scope is defined; **monthly
   retainer** possible (at a lower effective rate for the commitment);
-  **fractional roles** welcome. Actual rate numbers live in a private doc, not
-  here.
-* **What's the typical engagement size / minimum?** — _TBD (private doc)_
+  **fractional roles** welcome. Actual rate numbers live in the **private** rate
+  card (`Aanish97/bd-handbook-private` → `RATE_CARD.md`), not here.
+* **What's the typical engagement size / minimum?** There's a monthly floor — see
+  the private rate card. (Not published here.)
 * **What's the availability / start lead time?** Highly available — reachable for
   work and calls **24/7**. Use this as a selling point: fast response and
   overlap with the client's hours.

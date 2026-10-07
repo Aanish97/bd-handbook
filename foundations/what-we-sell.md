@@ -58,11 +58,10 @@ Undefined/early work → hourly. Clear deliverable → offer a project price. Wa
 steady partner → retainer (and the lower rate is a lever). Needs a senior
 technical hand on an ongoing basis → pitch a fractional role.
 
-> **Confidential:** Actual rate numbers stay out of this public repo — keep the
-> rate card in a private doc and link it internally.
-
-> **Fill in (private doc):** the specific hourly rate, typical project ranges,
-> the retainer discount, and any minimum engagement.
+> **Confidential:** Actual rate numbers stay out of this public repo. The rate
+> card (hourly tiers, monthly floor, by-channel guidance) lives in the **private**
+> companion repo: `Aanish97/bd-handbook-private` → `RATE_CARD.md` (team access
+> only).
 
 ## Why us (differentiation)
 
