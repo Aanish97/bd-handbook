@@ -60,5 +60,9 @@ revenue-generating products, not just written features.
 | "production-grade", "architected to scale" | "quick and dirty", "MVP" (unless they want exactly that) |
 | "from idea to revenue" | "I write code" |
 
-> **Fill in:** Add any terms specific to how you want to be positioned (e.g. a
-> brand/studio name, a niche vertical you want to own).
+**Brand note:** Sell under **Aanish Amir Waseem** by default — the personal,
+senior-engineer framing is the stronger pitch. Use **Arcompsol** (software
+services provider) when a client needs a company name on contracts/invoices or
+prefers dealing with an entity.
+
+> **Fill in:** Any niche vertical you want to own in the positioning.

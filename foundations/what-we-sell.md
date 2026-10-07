@@ -1,9 +1,11 @@
 # What We Sell
 
-We sell **Aanish's engineering capability** — a senior full-stack engineer and
-technical lead who takes products from inception to revenue, accelerated by AI
-but governed by real architecture experience. If you can explain *that* simply,
-you can sell it.
+We sell the engineering capability of **Aanish Amir Waseem** — a senior
+full-stack engineer and technical lead who takes products from inception to
+revenue, accelerated by AI but governed by real architecture experience. We sell
+under his personal name by default, and under **Arcompsol** (a software services
+provider) when a company name is needed. If you can explain *that* simply, you
+can sell it.
 
 ## The 60-second pitch
 

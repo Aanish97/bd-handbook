@@ -29,7 +29,8 @@ and acronyms as they come up.
 | **Full-stack** | Backend + frontend + infrastructure — here: Django/DRF, React/Next.js, DevOps. |
 | **Inception to revenue** | Taking a product from a blank page all the way to generating paying customers. |
 | **Rescue / hardening** | Taking a shaky or AI-built codebase and making it sound, scalable, and maintainable. |
+| **Arcompsol** | The software-services company name, used when a client needs a corporate entity (contracts, invoices). Default sales are under the personal name Aanish Amir Waseem. |
 
-> **Fill in:** Add any engagement-model or brand terms specific to how you sell
-> (e.g. a studio name, package names, a niche you own). Keep definitions
-> customer-safe — this repo is public.
+> **Fill in:** Add any engagement-model or package terms specific to how you sell
+> (e.g. package names, a niche you own). Keep definitions customer-safe — this
+> repo is public.

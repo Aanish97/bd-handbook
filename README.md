@@ -4,11 +4,15 @@ description: How we win engagements for Aanish — senior, AI-accelerated engine
 
 # BD Handbook
 
-This is the playbook for the business development team selling **Aanish's
-engineering services** ( _{{fill in: full name / studio or brand name}}_ ) — a
-senior full-stack engineer and technical lead who ships products from idea to
-revenue, now moving at AI speed without the architectural debt that pure
-"vibe-coding" leaves behind.
+This is the playbook for the business development team selling the engineering
+services of **Aanish Amir Waseem** — a senior full-stack engineer and technical
+lead who ships products from idea to revenue, now moving at AI speed without the
+architectural debt that pure "vibe-coding" leaves behind.
+
+**Brand:** We sell primarily under the personal name **Aanish Amir Waseem**. When
+a company/entity name is needed (contracts, invoices, larger-client
+conversations), we use **Arcompsol**, a software services provider. Default to the
+personal name; reach for Arcompsol only when the situation calls for a company.
 
 It's written so a new BD rep can get productive in their first week, and so a
 veteran can find the exact template, answer, or positioning line in seconds.
