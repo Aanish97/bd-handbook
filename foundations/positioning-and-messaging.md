@@ -1,43 +1,64 @@
 # Positioning & Messaging
 
-How we talk about GrowthCode so the message is consistent across every rep,
-email, and deck.
+How we talk about Aanish so the message is consistent across every rep, email,
+and call.
+
+## The core positioning
+
+> **AI speed, senior-engineer judgment.**
+> Anyone can generate code with AI now. Few can tell when the AI is about to make
+> an architectural mistake that costs months later. Aanish does both — he moves at
+> AI speed *and* catches the structural errors, because he's built and architected
+> real enterprise systems for 7+ years.
+
+This is our wedge. Lead with it.
 
 ## Value propositions
 
-Lead with outcomes, not features. For each core capability, state the value in
-the customer's terms.
+Lead with outcomes, not tools.
 
-> **Fill in:** 3–4 value props in this format.
+**Speed without the debt**
+*So that:* you ship in weeks, not quarters — and you don't pay for it later in a
+rewrite.
+*Proof:* _{{fill in: an example where AI-accelerated delivery shipped fast and stayed sound}}_
 
-**Feature:** _what it is_
-**So that:** _the outcome the buyer gets_
-**Proof:** _the number, quote, or case study that backs it_
+**One senior person, whole product**
+*So that:* backend, frontend, and infra are handled without you hiring and
+managing a team.
+*Proof:* _{{fill in: a product you took end-to-end to revenue}}_
+
+**Inception to revenue**
+*So that:* you're working with someone who's actually turned ideas into
+revenue-generating products, not just written features.
+*Proof:* _{{fill in}}_
 
 ## Messaging pillars
 
-The 3 themes every rep should reinforce.
-
-1. **_Pillar 1_** — _TBD_
-2. **_Pillar 2_** — _TBD_
-3. **_Pillar 3_** — _TBD_
+1. **Judgment beats raw output.** AI gives everyone speed; architecture
+   experience is what makes that speed safe.
+2. **Full-stack + infra, one senior mind.** No team to assemble, no handoffs.
+3. **Built for the finish line.** From blank page to paying customers.
 
 ## Competitive landscape
 
-> **Fill in:** Our main alternatives and the one-liner we use for each. Be fair —
-> never trash a competitor; contrast on substance. **Public repo:** keep this to
-> defensible, public-facing contrasts; detailed battlecards belong in a private
-> doc linked here.
+> **Fill in:** Confirm/adjust. These are the realistic alternatives a buyer
+> weighs. Keep contrasts fair — contrast on substance, never trash anyone.
 
 | Alternative | How we're different | When they win |
 | ----------- | ------------------- | ------------- |
-| _Competitor A_ | _TBD_ | _TBD_ |
-| Do nothing / status quo | _TBD_ | _TBD_ |
+| **Offshore / cheap dev shop** | Senior architecture judgment and direct ownership vs. volume and coordination overhead | Pure cost is the only criterion |
+| **Hiring a full-time senior eng** | Start now, no recruiting cycle, no long-term overhead | They need a permanent in-house owner |
+| **A pure "AI builder" / vibe-coder** | Same speed, but the output is production-grade and architected to scale | Throwaway prototype, no future |
+| **Do nothing / keep struggling** | A real path from stuck prototype to shipped product | No budget or no urgency |
 
 ## Words we use (and avoid)
 
-> **Fill in:** Preferred terms vs. terms that confuse buyers or over-promise.
-
 | Say this | Not this |
 | -------- | -------- |
-| _TBD_ | _TBD_ |
+| "AI-accelerated" / "AI-assisted" | "AI-generated" (sounds hands-off) |
+| "senior engineer / technical lead" | "coder" / "developer" (undersells it) |
+| "production-grade", "architected to scale" | "quick and dirty", "MVP" (unless they want exactly that) |
+| "from idea to revenue" | "I write code" |
+
+> **Fill in:** Add any terms specific to how you want to be positioned (e.g. a
+> brand/studio name, a niche vertical you want to own).

@@ -1,52 +1,67 @@
 # ICP & Personas
 
-The fastest way to miss quota is to sell to the wrong people. This page defines
-exactly who we target.
+The fastest way to waste effort is pitching the wrong buyer. This page defines
+who we target for Aanish's services.
 
 ## Ideal Customer Profile (ICP)
 
-The *company* we want. If an account doesn't broadly match, deprioritize it.
+The kind of client that's a strong fit. Derived from the services and
+positioning — **confirm and tighten.**
 
-> **Fill in:** Our real ICP firmographics.
+> **Fill in:** Lock down the specifics (vertical focus, budget range, geography,
+> remote vs. on-site). Below is the strong-fit profile based on the offering.
 
-| Attribute | Our ICP |
-| --------- | ------- |
-| Industry / vertical | _TBD_ |
-| Company size (employees) | _TBD_ |
-| Revenue range | _TBD_ |
-| Geography | _TBD_ |
-| Tech / data signals | _TBD_ |
-| Trigger events to watch for | _TBD_ |
+| Attribute | Strong-fit client |
+| --------- | ----------------- |
+| Stage | Early-stage startup / funded seed–Series A, or a small team scaling a product |
+| Situation | Has an idea, a shaky prototype, or an AI-built codebase that needs to become a real product |
+| Team | No senior engineer in-house, or an overstretched founding team |
+| Tech need | Web product (Django/DRF + React/Next.js), plus infra/DevOps |
+| Budget | Can fund a serious build or a fractional engagement — not bargain-hunting |
+| Geography | _{{fill in: remote-global? specific regions/timezones?}}_ |
+| Trigger events | Just raised funding; prototype stalling; a technical co-founder left; AI build hit a wall; a launch deadline looming |
 
-### Disqualifiers
+### Disqualifiers — walk away early
 
-> **Fill in:** Clear signs an account is *not* a fit — size, industry, tech,
-> budget. Walk away early.
+* Wants the cheapest possible offshore rate above all else.
+* Needs a permanent full-time employee, not an engagement.
+* Mobile-native-only or non-web work outside the stack. _{{confirm}}_
+* No budget and no urgency.
 
 ## Personas
 
-The *people* inside the account. Most deals involve more than one.
+Most engagements are sold to one or two people — usually a founder.
 
-### Economic buyer
+### Founder / CEO (most common buyer)
 
-> **Fill in:** Title(s), what they care about, how they measure success, what
-> makes them say yes.
+* **Cares about:** shipping a product that works and makes money; not getting
+  burned by bad engineering; speed.
+* **Says yes when:** they trust the person can own the whole thing and has done
+  it before.
+* **The line that lands:** "I take it from idea to revenue, and I move at AI
+  speed without leaving you a mess to rebuild."
 
-### Champion / primary user
+### Technical co-founder / CTO / Head of Eng
 
-> **Fill in:** Who feels the pain daily and will push internally for us.
+* **Cares about:** architecture, code quality, whether this person raises the
+  team's bar.
+* **Says yes when:** they hear real architecture depth, not just AI buzzwords.
+* **The line that lands:** "I use AI heavily, but I catch the architectural
+  mistakes it makes — because I've built enterprise systems for years."
 
-### Blockers
+### Head of Product / non-technical founder
 
-> **Fill in:** Who tends to say no (e.g. security, procurement, a competing
-> internal team) and how we get ahead of them.
+* **Cares about:** turning a vision into a working product without managing
+  engineers.
+* **The line that lands:** "You bring the product vision; I handle backend,
+  frontend, and infrastructure."
 
 ## Messaging by persona
 
-Pair this with [Positioning & Messaging](positioning-and-messaging.md): the same
-product, framed around each persona's problem.
+Pair with [Positioning & Messaging](positioning-and-messaging.md).
 
 | Persona | Their #1 pain | The line that lands |
 | ------- | ------------- | ------------------- |
-| Economic buyer | _TBD_ | _TBD_ |
-| Champion | _TBD_ | _TBD_ |
+| Founder / CEO | Can't get the product built right or fast enough | "Idea to revenue, at AI speed, done soundly" |
+| CTO / tech co-founder | AI/vibe-coded mess accruing debt | "AI speed with architecture judgment" |
+| Non-technical founder | No one to own the build | "One senior person for the whole product" |

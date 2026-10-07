@@ -1,41 +1,44 @@
 ---
-description: The single source of truth for how the GrowthCode BD team wins.
+description: How we win engagements for Aanish — senior, AI-accelerated engineering with enterprise architecture judgment.
 ---
 
-# GrowthCode BD Handbook
+# BD Handbook
 
-Welcome to the Business Development Handbook. This is the playbook for how we
-find, qualify, and close the right partners — written so a new hire can get
-productive in their first week and a veteran can find the exact template or
-answer they need in seconds.
+This is the playbook for the business development team selling **Aanish's
+engineering services** ( _{{fill in: full name / studio or brand name}}_ ) — a
+senior full-stack engineer and technical lead who ships products from idea to
+revenue, now moving at AI speed without the architectural debt that pure
+"vibe-coding" leaves behind.
 
-> **Fill in:** One or two sentences on what GrowthCode does, in the words we
-> actually use on calls. Keep it jargon-free — if a prospect wouldn't
-> understand it, rewrite it.
+It's written so a new BD rep can get productive in their first week, and so a
+veteran can find the exact template, answer, or positioning line in seconds.
+
+## The one-line version
+
+> Senior engineer (7+ years hands-on, enterprise architecture background) who
+> uses AI to deliver faster — and uses hard-won architecture judgment to avoid
+> the expensive mistakes AI makes when it's left to code unsupervised.
 
 ## How to use this handbook
 
 * **New to the team?** Start with [New-Hire Onboarding](getting-started/onboarding.md).
-* **Running a deal?** Jump to [Sales Process & Stages](process/sales-process.md).
+* **Need the pitch?** Read [What We Sell](foundations/what-we-sell.md).
+* **Who do we target?** See [ICP & Personas](foundations/icp-and-personas.md).
+* **Running a deal?** Go to [Sales Process & Stages](process/sales-process.md).
 * **Reaching out cold?** Grab a [Prospecting & Outreach](playbooks/prospecting-and-outreach.md) template.
-* **Stuck on a pushback?** See [Objection Handling](playbooks/objection-handling.md).
+* **Hit a pushback?** See [Objection Handling](playbooks/objection-handling.md).
 
 ## Keeping it accurate
 
-This handbook lives in GitHub and is published through GitBook. Anyone on the
-team can propose a change — see [Contributing](#contributing) below. Treat it as
-a living document: if you find something out of date, fix it or flag it in the
-`#bd` channel.
+This handbook lives in GitHub and is published through GitBook. Anyone can
+propose a change — see [Contributing](CONTRIBUTING.md). Treat it as a living
+document: if something's out of date, fix it or flag it.
 
-> **Fill in:** Name the owner(s) of this handbook and the Slack/Teams channel
-> where changes get discussed.
+> **Fill in:** Who owns this handbook, and the channel where changes get
+> discussed.
 
-## Contributing
+## Confidential rule
 
-1. Edit the relevant Markdown file (in GitBook's editor or directly on GitHub).
-2. Describe what changed in the commit / change request.
-3. An owner reviews and merges.
-
-Because this repo is **public**, never put anything confidential here —
-no customer lists, no pricing we haven't published, no credentials, no internal
-revenue numbers. Use placeholders and link to the private source instead.
+This repo is **public**. Never put client names, rates we haven't published,
+contract terms, or credentials here. Use placeholders and link to the private
+source instead.

@@ -1,38 +1,39 @@
 # New-Hire Onboarding
 
-Your first two weeks on the GrowthCode BD team. The goal: understand what we
-sell, who we sell to, and how we run a deal — then book your first meeting.
+Your first two weeks selling Aanish's engineering services. The goal: understand
+what we sell, who we sell to, and how we run a deal — then book your first call.
 
 ## Week 1 — Learn
 
 * [ ] Read this entire handbook end to end.
-* [ ] Read [What We Sell](../foundations/what-we-sell.md) and be able to give the
-  60-second pitch from memory.
-* [ ] Shadow **three** live calls (two discovery, one later-stage). Take notes on
-  the questions the rep asks.
-* [ ] Get access to every tool in [Tools & Access](tools-and-access.md).
-* [ ] Review 3–5 recent closed-won deals in the CRM. What did the winning path
-  look like?
+* [ ] Read [What We Sell](../foundations/what-we-sell.md) and
+  [Positioning](../foundations/positioning-and-messaging.md); be able to deliver
+  the "AI speed, senior-engineer judgment" pitch from memory.
+* [ ] Internalize the [ICP & Personas](../foundations/icp-and-personas.md) — who's
+  a fit and who to disqualify fast.
+* [ ] Review past engagements / case studies so you can tell real stories.
+* [ ] Shadow (or review recordings of) a couple of intro calls to hear how the
+  conversation goes.
 
-> **Fill in:** Link the call recordings / Gong/Fathom library new hires should
-> watch, and name the 3–5 reference deals.
+> **Fill in:** Link any call recordings, case studies, or portfolio pieces a new
+> rep should study, and name 2–3 reference engagements.
 
 ## Week 2 — Do
 
-* [ ] Build a list of 20 accounts that fit our [ICP](../foundations/icp-and-personas.md).
+* [ ] Build a list of 20 prospects that fit the [ICP](../foundations/icp-and-personas.md).
 * [ ] Write your first outreach sequence using the
   [templates](../playbooks/prospecting-and-outreach.md). Get it reviewed.
-* [ ] Role-play a discovery call with your manager.
-* [ ] Send live outreach. Target: book your first meeting by end of week 2.
+* [ ] Role-play an intro call (qualifying a founder) with your manager / Aanish.
+* [ ] Send live outreach. Target: book your first qualified call by end of week 2.
 
 ## Who to ask
 
-> **Fill in:** A small table of go-to people — who owns product questions, who
-> owns pricing/contracts, who owns CRM/ops, who to escalate a hot deal to.
+> **Fill in:** For a solo-services offer most of this is likely Aanish directly —
+> confirm who owns each and how to reach them.
 
 | Topic | Person | Where to reach them |
 | ----- | ------ | ------------------- |
-| Product / technical | _TBD_ | _TBD_ |
-| Pricing & contracts | _TBD_ | _TBD_ |
-| CRM & ops | _TBD_ | _TBD_ |
-| Escalations | _TBD_ | _TBD_ |
+| Scoping / technical fit | _Aanish?_ | _TBD_ |
+| Pricing & proposals | _TBD_ | _TBD_ |
+| CRM & process | _TBD_ | _TBD_ |
+| Escalating a hot lead | _TBD_ | _TBD_ |

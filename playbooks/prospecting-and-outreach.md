@@ -1,81 +1,109 @@
 # Prospecting & Outreach
 
-How we find the right accounts and earn the first meeting. Personalize the
-templates — never send them raw.
+How we find the right clients for Aanish and earn the first conversation.
+Personalize every template — never send them raw.
 
 ## Building your list
 
-1. Start from the [ICP](../foundations/icp-and-personas.md). Filter for fit, not
-   volume.
-2. Find the [persona](../foundations/icp-and-personas.md) — usually a champion
-   first, then the economic buyer.
-3. Look for a **trigger** (new funding, a new hire in a relevant role, a product
-   launch, a public pain signal). A reason to reach out *now* beats a generic blast.
+1. Start from the [ICP](../foundations/icp-and-personas.md): early-stage founders
+   and small teams who need a product built or rescued.
+2. Find the buyer — usually the **founder / CEO**, sometimes a technical
+   co-founder.
+3. Look for a **trigger**: a recent raise, a "looking for a technical
+   co-founder/dev" post, a stalled or AI-built prototype, a public launch
+   deadline, a founder complaining about dev speed or quality.
 
-> **Fill in:** The data sources and filters we actually use to build lists.
+> **Fill in:** The exact places you'll source leads (e.g. specific startup
+> communities, accelerators, job/gig boards, LinkedIn searches, warm network,
+> referrals).
+
+## Where these clients hang out
+
+> **Fill in / confirm:** LinkedIn, X/Twitter founder circles, Indie Hackers,
+> YC/accelerator networks, startup Slack/Discord communities, Upwork/Contra for
+> inbound, referrals from past clients. Prioritize warm/referral first — it
+> converts best for a senior-services offer.
 
 ## The outreach sequence
 
-A multi-touch, multi-channel sequence over ~2–3 weeks. Lead with the prospect's
-problem, not our product.
-
-> **Fill in:** Confirm cadence/number of touches to match our sales engagement
-> tool. Below is a solid default.
+Multi-touch over ~2 weeks. Lead with *their* problem (getting the product built
+right), not a feature list.
 
 | Day | Channel | Goal |
 | --- | ------- | ---- |
-| 1 | Email | Relevance — one specific reason you're reaching out |
+| 1 | Email / DM | Relevance — one specific reason you're reaching out |
 | 2 | LinkedIn | Connect, no pitch |
-| 4 | Email | Value — a resource or insight, light ask |
-| 7 | Call + voicemail | Human touch |
-| 9 | Email | Different angle / different pain |
-| 12 | LinkedIn message | Soft nudge |
-| 14 | Email | Break-up — "should I close your file?" |
+| 4 | Email / DM | Value — a relevant insight or a quick observation on their product |
+| 7 | Call / voice note | Human touch |
+| 9 | Email / DM | Different angle (speed vs. quality vs. cost of a rebuild) |
+| 12 | LinkedIn | Soft nudge |
+| 14 | Email / DM | Break-up — "should I close your file?" |
 
 ## Templates
 
 Keep each under ~90 words. One idea, one ask.
 
-### Cold email — problem-led
+### Cold outreach — founder with a stalled / AI-built product
 
 ```
-Subject: {{specific problem}} at {{company}}?
+Subject: {{product}} — past the prototype?
 
 Hi {{first_name}},
 
-{{One sentence showing you understand their world / a trigger you noticed}}.
+Saw {{specific trigger — your launch / your "looking for a dev" post / your demo}}.
 
-Teams like {{peer company or role}} came to us when {{the pain}}. We help them
-{{the outcome}} — usually {{proof / rough result}}.
+A lot of founders get a prototype out with AI, then hit a wall turning it into
+something real that scales. I'm a senior engineer — I build full products
+(backend, frontend, infra) at AI speed, but I catch the architecture mistakes AI
+makes solo, because I've built enterprise systems for years.
 
-Worth a 20-minute look to see if it maps to {{company}}?
+Worth 20 minutes to see where {{product}} stands?
 
-{{your name}}
+Aanish
+```
+
+### Cold outreach — founder who needs the product built
+
+```
+Subject: Building {{product}}?
+
+Hi {{first_name}},
+
+{{One line showing you understand what they're building}}.
+
+I take products from idea to revenue — one senior engineer handling the whole
+stack, moving fast with AI but keeping the architecture sound. No team to
+assemble.
+
+Open to a quick call to see if I can help?
+
+Aanish
 ```
 
 ### LinkedIn connection note
 
 ```
-Hi {{first_name}} — following {{company}}'s {{trigger}}. I work with
-{{persona/role}} on {{problem}} and thought it'd be worth connecting.
+Hi {{first_name}} — following {{company/product}}. I help founders turn ideas
+(and stuck AI prototypes) into real, scalable products. Thought it'd be worth
+connecting.
 ```
 
-### Break-up email
+### Break-up
 
 ```
 Subject: Closing your file
 
-Hi {{first_name}}, I haven't heard back, so I'll assume {{problem}} isn't a
-priority right now. If that changes, I'm here. Either way — wishing you a strong
-{{quarter}}.
+Hi {{first_name}}, haven't heard back so I'll assume building out {{product}}
+isn't a priority right now. If that changes, I'm here. Either way — good luck
+with the launch.
 ```
 
-> **Fill in:** Add our best-performing subject lines and any templates by
-> persona. Review what's actually converting each quarter and prune the rest.
+> **Fill in:** Add your best-performing subject lines and any templates aimed at
+> technical co-founders (lead harder on architecture there).
 
 ## Do / don't
 
-* **Do** personalize the first line and the ask.
-* **Do** lead with their problem; mention GrowthCode second.
-* **Don't** send more than one idea per message.
-* **Don't** attach a deck to a cold email.
+* **Do** reference something specific about their product in line one.
+* **Do** lead with their problem; your background comes second.
+* **Don't** list technologies in a cold message — lead with outcomes.
+* **Don't** send a rate or proposal before a conversation.

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [GrowthCode BD Handbook](README.md)
+* [BD Handbook](README.md)
 
 ## Getting Started
 
