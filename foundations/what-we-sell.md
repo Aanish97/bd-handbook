@@ -29,9 +29,8 @@ the architecture sound.**
 
 ## How we solve it — the services
 
-> **Fill in:** Confirm / adjust the exact service lines and how you package them
-> (hourly, project, monthly retainer, fractional). Below is derived from your
-> background.
+> **Fill in:** Confirm / adjust the exact service lines below — they're derived
+> from your background. (Engagement models are covered in the next section.)
 
 | Service | What the client gets |
 | ------- | -------------------- |
@@ -41,6 +40,29 @@ the architecture sound.**
 | **DevOps & server-side setup** | Deployment, infrastructure, and the server-side plumbing a product needs to run reliably. |
 | **Rescue & hardening** | Taking a shaky or AI-generated codebase and making it sound, scalable, and maintainable. |
 | **Debugging & issue resolution** | Diagnosing and fixing the problems that stall a product — the deep issues juniors and AI alone can't crack. |
+
+## Engagement models
+
+We're flexible on how a client engages — match the model to how well-defined the
+work is and how they prefer to buy.
+
+| Model | When it fits | Note |
+| ----- | ------------ | ---- |
+| **Hourly** | The default. Scope is fluid, exploratory, or ongoing. | Our standard way to engage. |
+| **Project / fixed scope** | The scope is clearly defined up front. | Priced per project once we can scope it. |
+| **Monthly retainer** | The client wants ongoing, reserved capacity. | Can be settled at a lower effective rate than hourly in exchange for the commitment. |
+| **Fractional role** | The client needs an ongoing senior/tech-lead/fractional-CTO presence. | Actively desirable — a great fit for this offering. |
+
+**How to sell it:** lead with the client's situation, then recommend the model.
+Undefined/early work → hourly. Clear deliverable → offer a project price. Wants a
+steady partner → retainer (and the lower rate is a lever). Needs a senior
+technical hand on an ongoing basis → pitch a fractional role.
+
+> **Confidential:** Actual rate numbers stay out of this public repo — keep the
+> rate card in a private doc and link it internally.
+
+> **Fill in (private doc):** the specific hourly rate, typical project ranges,
+> the retainer discount, and any minimum engagement.
 
 ## Why us (differentiation)
 

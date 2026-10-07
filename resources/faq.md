@@ -38,8 +38,13 @@ Reframe to value and the cost of a rebuild — see
 > **Fill in:** These are the questions reps will ask constantly — answer them so
 > no one has to guess or quote wrong.
 
-* **How is the work priced?** (hourly / project / monthly retainer / fractional) — _TBD_
-* **What's the typical engagement size / minimum?** — _TBD_
+* **How is the work priced?** Four models — see
+  [Engagement models](../foundations/what-we-sell.md#engagement-models). In short:
+  **hourly** by default; **project-based** when scope is defined; **monthly
+  retainer** possible (at a lower effective rate for the commitment);
+  **fractional roles** welcome. Actual rate numbers live in a private doc, not
+  here.
+* **What's the typical engagement size / minimum?** — _TBD (private doc)_
 * **What's the availability / start lead time?** — _TBD_
 * **Remote only, or on-site / specific timezones?** — _TBD_
 * **What's the intake once a prospect is interested?** (who runs the technical
