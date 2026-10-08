@@ -101,3 +101,27 @@ Named clients we're cleared to reference in proposals and outreach:
 
 > **Fill in:** Results/metrics per client, and the insurance client's name if it
 > can be named too.
+
+### Public code samples
+
+Public repos you can drop into a proposal as evidence of real, inspectable work
+(all under [github.com/Aanish97](https://github.com/Aanish97)):
+
+| Repo | Shows |
+| ---- | ----- |
+| [DjangoBoilerplate](https://github.com/Aanish97/DjangoBoilerplate) | Django / DRF backend structure and practices |
+| [Ecommerce-data-predictions](https://github.com/Aanish97/Ecommerce-data-predictions) | ETL + prediction + recommendations pipeline |
+| [ETL_python](https://github.com/Aanish97/ETL_python) | Data-transformation / ETL work (fits the data-pipeline vertical) |
+| [EcomPredictor_ETL](https://github.com/Aanish97/EcomPredictor_ETL) | Data dedup, standardization, cleaning |
+| [NLP_python](https://github.com/Aanish97/NLP_python) | NLP / ML (Word2Vec, sentiment) |
+| [arcompsol-v2](https://github.com/Aanish97/arcompsol-v2) | TypeScript / frontend (the Arcompsol site) |
+
+> **How to use these:** code links prove *capability*, not *results*. Pair a repo
+> with a client war-story for impact. For the Django-retainer and
+> data/audit-type proposals especially, a link alone isn't enough — add a concrete
+> debugging story and a metric (see the gap note below).
+
+> **Gap — needs Aanish:** The specifics-heavy proposals still need a real
+> debugging/war-story + a hard metric (e.g. "diagnosed an N+1 that was timing out
+> checkout; cut p95 from Xs to Yms"). These live in your head, not in any repo —
+> add them per proposal / to the client rows above.
