@@ -30,3 +30,7 @@
 * [Templates](resources/templates.md)
 * [Glossary](resources/glossary.md)
 * [FAQ](resources/faq.md)
+
+## Operations
+
+* [Bidding Progress](operations/bidding-progress.md)
